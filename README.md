@@ -2,18 +2,8 @@
 
 ### Abstract
 
-Deep learning models achieved state-of-the-art performance
-in many fields including biomedical due to the ability of Convolutional
-Network (CNN) models and knowledge of transfer learning approaches.
-The CNN models gave scope for tuberculosis classification by enabling
-transfer learning approaches. In this paper, we analyzed the effect of
-transfer learning techniques on pre-trained deep learning models, which
-have less feature maps when compared to existing models for classifi
-cation of Chest X-Ray images of potential Tuberculosis patients. The
-layer by layer performance was observed and the effect of transfer learn-
-ing was analyzed in terms of different tuning modes: a) shallow tuning,
-b) ne tuning, and c) deep tuning, where deep tuning showed the best
-performance in terms of sensitivity, specificity, ROC-AUC and accuracy.
+Deep learning models achieved state-of-the-art performance in many fields including biomedical due to the ability of Convolutional Network (CNN) models and knowledge of transfer learning approaches. The CNN models gave scope for tuberculosis classification by enabling transfer learning approaches. In this paper, we analyzed the effect of
+transfer learning techniques on pre-trained deep learning models, which have less feature maps when compared to existing models for classification of Chest X-Ray images of potential Tuberculosis patients. The layer by layer performance was observed and the effect of transfer learning was analyzed in terms of different tuning modes: a) Shallow Tuning, b) Fine Tuning, and c) Deep Tuning, where deep tuning showed the best performance in terms of sensitivity, specificity, ROC-AUC and accuracy.
 
 ### Code
 
