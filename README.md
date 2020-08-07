@@ -21,6 +21,6 @@ transfer learning techniques on pre-trained deep learning models, which have les
 
 - This paper is presented in this conference on Feb 2020 " The International Conference on Automation, Signal Processing, Instrumentation and Control (i'CASIC 2020) ". This paper is yet to be published online. 
 
-*** If any ideas from this project is been used, kindly let me know and do cite our paper.
+#### If any ideas from this project is been used, kindly let me know and do cite our paper.
 
-*** Paper is not uploaded, as it is not published online
+#### Paper is not uploaded, as it is not published online yet.
