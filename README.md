@@ -1,4 +1,4 @@
-# Tuberculosis-Classification-using-Pre-trained-Deep-Learning-Models_Paper
+# Paper Publication: Tuberculosis Classification using Pre-trained Deep Learning Models
 
 ### Abstract
 
@@ -19,7 +19,9 @@ transfer learning techniques on pre-trained deep learning models, which have les
 
 ### Paper to Cite
 
-- This paper is presented in this conference on Feb 2020 " The International Conference on Automation, Signal Processing, Instrumentation and Control (i'CASIC 2020) ". This paper is yet to be published online. 
+- This paper is presented in this conference on Feb 2020 " The International Conference on Automation, Signal Processing, Instrumentation and Control (i'CASIC 2020) ". 
+- Publisher - Springer (Germany Based)
+- This paper is yet to be published online. 
 
 #### If any ideas from this project is been used, kindly let me know and do cite our paper.
 
